@@ -3,7 +3,7 @@
 🌱 I’m currently learning Next.js TS/TSX and exploring AI-driven applications.  
 💞️ I’m looking to collaborate on Next.js TS/TSX Framework and AI-based projects.  
 📫 How to reach me: elijahnzeli924@gmail.com.  And
-📱 WhatsApp: +254741905247.
+📱 [WhatsApp](https://wa.me/+254741905247)
 
 🚀 My expertise includes:
 
