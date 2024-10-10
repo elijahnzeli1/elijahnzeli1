@@ -1,8 +1,9 @@
 👋 Hi, I’m @elijahnzeli1  
 👀 I’m interested in programming and developing innovative, user-centric solutions.  
-🌱 I’m currently learning Rust Canisters and exploring AI-driven applications.  
-💞️ I’m looking to collaborate on Rust and AI-based projects.  
-📫 How to reach me: nzelielijah403@gmail.com  
+🌱 I’m currently learning Next.js TS/TSX and exploring AI-driven applications.  
+💞️ I’m looking to collaborate on Next.js TS/TSX Framework and AI-based projects.  
+📫 How to reach me: elijahnzeli924@gmail.com.  And
+📱 WhatsApp: +254741905247.
 
 🚀 My expertise includes:
 
