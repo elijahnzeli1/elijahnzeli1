@@ -6,10 +6,10 @@
 
 🚀 My expertise includes:
 
-- **Frontend:** JavaScript, React, Next.js, Tailwind CSS, Flutter  
-- **Backend:** Node.js, Express, Supabase, Firebase  
-- **AI & Machine Learning:** OpenAI API, Generative AI, AI model integration  
-- **Tools & Platforms:** Vercel, Git, VSCode, Kaggle  
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Supabase, postgreSQL, MYSQL  
+- **AI & Machine Learning:** OpenAI API, All Generative AI build up, AI model integration  
+- **Tools & Platforms:** Vercel, V0, Git, VSCode, Cursor, Kaggle  
 
 I'm always open to exciting new projects and collaborations, so feel free to check out my repositories and connect with me!
 
