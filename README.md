@@ -25,6 +25,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahnzeli1&theme=radical&hide_border=true" />
 </p>
 
+
+## 📊 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🛠️ Technical Expertise
 
 ### **Frontend**  
