@@ -124,7 +124,12 @@ pie
 ## 📈 Recent Projects
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=VicksWyn&repo=salesa_1&theme=dark)](https://github.com/VicksWyn/salesa)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai_2&theme=dark)]([https://github.com/elijahnzeli1/salesai](https://github.com/elijahnzeli1/SalesAI.git))
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai_2&theme=dark)](https://github.com/elijahnzeli1/SalesAI)
+
+## 🚀 Featured Projects
+
+[![AI Sales Assistant](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/salesai)
+[![Next.js E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=nextjs-ecom&theme=dark)](https://github.com/elijahnzeli1/nextjs-ecom)
 
 ## 📬 Let's Connect
 
