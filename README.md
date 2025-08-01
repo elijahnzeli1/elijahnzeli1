@@ -6,6 +6,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254741905247-brightgreen?style=flat&logo=whatsapp)](https://wa.me/+254741905247)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elijah-nzeli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-ff69b4?style=flat)](https://elijahnzeli1.github.io/PortifolioEN/)
+## **Visitors**
+![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet)
+<!-- Repository Traffic -->
+![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet&label=Profile+Views)
 
 <!-- ## 📊 GitHub Analytics -->
 
@@ -73,9 +77,6 @@ pie
 <!-- Alternative Top Langs -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green)
 
-<!-- Repository Traffic -->
-![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet&label=Profile+Views)
-
 
 ## 🛠️ Technical Expertise
 
@@ -103,9 +104,6 @@ pie
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab)
-
-## **Visitors**
-![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet)
 
 ## 🌱 Current Focus
 
