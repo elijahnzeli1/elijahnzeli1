@@ -19,7 +19,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📊 Advanced GitHub Analytics
+## 📊 Advanced GitHub Analytics for this Year
 
 <table align="center">
   <tr>
@@ -66,7 +66,7 @@ pie
     "Learning Resources" : 8
 ```
 
-
+## 📊 GitHub Analytics for all the Years
 <!-- Alternative Stats -->
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
