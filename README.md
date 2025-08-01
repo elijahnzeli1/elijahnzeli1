@@ -19,7 +19,10 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=elijahnzeli1&layout=compact&theme=vue)]
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=elijahnzeli1&layout=compact&theme=vue)
+
+![AI Project](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=ai-app&theme=vision-friendly-dark)
+![Next.js Template](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=nextjs-boilerplate&theme=dark)
 
 ## 🛠️ Technical Expertise
 
