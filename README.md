@@ -66,7 +66,7 @@ pie
     "Learning Resources" : 8
 ```
 
-```markdown
+
 <!-- Alternative Stats -->
 [![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)]
 
@@ -75,7 +75,7 @@ pie
 
 <!-- Repository Traffic -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet&label=Profile+Views)
-```
+
 
 ## 🛠️ Technical Expertise
 
