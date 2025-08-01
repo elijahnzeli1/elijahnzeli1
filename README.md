@@ -15,15 +15,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true" width="90%">
-</p>
+## 📈 GitHub Stats
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahnzeli1&theme=radical&hide_border=true" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical)
 
 
 ## 📊 Contribution Graph
