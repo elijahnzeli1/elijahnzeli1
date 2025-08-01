@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-elijahnzeli924%40gmail.com-blue?style=flat&logo=gmail)](mailto:elijahnzeli924@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254741905247-brightgreen?style=flat&logo=whatsapp)](https://wa.me/+254741905247)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elijah-nzeli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-ff69b4?style=flat)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-ff69b4?style=flat)](https://elijahnzeli1.github.io/PortifolioEN/)
 
 ## 📊 GitHub Analytics
 
