@@ -123,9 +123,8 @@ pie
 
 ## 📈 Recent Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=VicksWyn&repo=salesa&theme=dark)](https://github.com/VicksWyn/salesa)
+[![SalesA App](https://github-readme-stats.vercel.app/api/pin/?username=VicksWyn&repo=salesa&theme=dark)](https://github.com/VicksWyn/salesa)
 [![AI Sales Assistant](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/salesai)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/SalesAI)
 
 ## 📬 Let's Connect
 
