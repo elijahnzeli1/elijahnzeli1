@@ -7,13 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elijah-nzeli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-ff69b4?style=flat)](https://elijahnzeli1.github.io/PortifolioEN/)
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics -->
 
 <!-- Stats & Languages -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
-</p>
+<!-- <p align="center"> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&hide_border=true&count_private=true" /> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" /> -->
+<!-- </p> -->
 
 ## 📊 Contribution Graph
 
