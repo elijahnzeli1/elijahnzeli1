@@ -19,7 +19,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Snap Changelog](https://app.gitclear.com/changelog/user/elijahnzeli1.png?type=bubbles&weeks=12)]
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=elijahnzeli1&layout=compact&theme=vue)]
 
 ## 🛠️ Technical Expertise
 
