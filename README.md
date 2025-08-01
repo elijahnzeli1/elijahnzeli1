@@ -30,7 +30,7 @@
     </td>
     <td width="50%">
       <a href="https://git.io/streak-stats">
-        <img height="180em" src="https://streak-stats.demolab.com?user=elijahnzeli1&theme=radical&mode=weekly&fire=DD2727" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
       </a>
     </td>
   </tr>
