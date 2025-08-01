@@ -19,7 +19,52 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Skill Radar](https://skill-radar.vercel.app/api/radar?username=elijahnzeli1&skills=nextjs,react,openai,postgresql&theme=prussian)
+## 📊 Advanced GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Development+Activity" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img height="180em" src="https://streak-stats.demolab.com?user=elijahnzeli1&theme=radical&mode=weekly&fire=DD2727" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution+Timeline" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&langs_count=8&hide=html,css&custom_title=Language+Distribution" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=elijahnzeli1&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🔍 Repository Insights
+
+```mermaid
+pie
+    title Repository Distribution
+    "Next.js Projects" : 42
+    "AI Applications" : 35
+    "Full-Stack Tools" : 15
+    "Learning Resources" : 8
+```
 
 ## 🛠️ Technical Expertise
 
