@@ -19,7 +19,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&show=reviews,discussions_answered)]
+[![Streak Stats](https://streak-stats.demolab.com/?user=elijahnzeli1&theme=dark&mode=weekly&fire=DD2727)]
 
 ## 🛠️ Technical Expertise
 
