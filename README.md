@@ -6,10 +6,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254741905247-brightgreen?style=flat&logo=whatsapp)](https://wa.me/+254741905247)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elijah-nzeli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-ff69b4?style=flat)](https://elijahnzeli1.github.io/PortifolioEN/)
+
 ## **Visitors**
 ![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet)
 <!-- Repository Traffic -->
-![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet&label=Profile+Views)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=elijahnzeli1&color=blueviolet&label=Profile+Views) -->
 
 <!-- ## 📊 GitHub Analytics -->
 
