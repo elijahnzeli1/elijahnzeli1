@@ -80,7 +80,9 @@ pie
 
 ## 🤖 GitHub Copilot Usage
 
-[![Copilot Tokens](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/elijahnzeli1/elijahnzeli1/main/copilot.json&label=Tokens%20Remaining&color=blue)](https://github.com/settings/copilot)
+[![Copilot](https://img.shields.io/badge/Copilot%20Tokens-12,500-blue?logo=githubcopilot&style=for-the-badge)](https://github.com/settings/copilot)
+
+[![Copilot Usage](https://img.shields.io/static/v1?label=Copilot&message=75%25%20Used&color=purple&logo=github)](https://github.com/settings/copilot)
 
 ## 🛠️ Technical Expertise
 
