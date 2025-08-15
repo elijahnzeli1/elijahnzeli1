@@ -78,8 +78,9 @@ pie
 <!-- Alternative Top Langs -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green)
 
-![Copilot Usage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/elijahnzeli1/elijahnzeli1/main/copilot_usage.json)
+## 🤖 GitHub Copilot Usage
 
+[![Copilot Tokens](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/elijahnzeli1/elijahnzeli1/main/copilot.json&label=Tokens%20Remaining&color=blue)](https://github.com/settings/copilot)
 
 ## 🛠️ Technical Expertise
 
