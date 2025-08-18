@@ -28,11 +28,6 @@
 
 <table align="center">
   <tr>
-<!--     <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Development+Activity" />
-      </a>
-    </td> -->
     <td width="50%">
       <a href="https://git.io/streak-stats">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
@@ -48,13 +43,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&langs_count=8&hide=html,css&custom_title=Language+Distribution" />
+      <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=elijahnzeli1&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green" alt="Top Langs" />
       </a>
     </td>
   </tr>
