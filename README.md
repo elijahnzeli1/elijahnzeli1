@@ -35,6 +35,18 @@
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=elijahnzeli1&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution+Timeline" width="100%" />
