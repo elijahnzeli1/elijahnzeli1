@@ -66,12 +66,12 @@ pie
     "Learning Resources" : 8
 ```
 
-## 📊 GitHub Analytics for all the Years
+<!-- ## 📊 GitHub Analytics for all the Years -->
 <!-- Alternative Stats -->
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+<!-- ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) -->
 
 <!-- Alternative Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&hide=html,css&layout=donut&theme=blue-green) -->
 
 ## 🤖 GitHub Copilot Usage
 
