@@ -28,11 +28,11 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+<!--     <td width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahnzeli1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Development+Activity" />
       </a>
-    </td>
+    </td> -->
     <td width="50%">
       <a href="https://git.io/streak-stats">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnzeli1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
