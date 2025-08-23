@@ -91,17 +91,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-## 📊 Repository Insights
-
-```mermaid
-pie
-    title Repository Distribution
-    "Next.js Projects" : 42
-    "AI Applications" : 35
-    "Full-Stack Tools" : 15
-    "Learning Resources" : 8
-```
-
 ## 🚀 Recent Projects
 
 [![CausalTorch](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=CausalTorch&theme=dark)](https://github.com/elijahnzeli1/CausalTorch)
