@@ -96,21 +96,16 @@
 [![CausalTorch](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=CausalTorch&theme=dark)](https://github.com/elijahnzeli1/CausalTorch)
 [![AI Sales Assistant](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/salesai)
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/Qybera/LisaV3.0)
-[![Spaces](https://img.shields.io/badge/🤗%20Spaces-Demo%20App-yellow)](https://huggingface.co/spaces/Qybera/LisaV3.0?logs=container)
-
 ## 🤗 Hugging Face Model
 
-**Model Name:** `your-username/your-model`  
-**Task:** Text Classification  
+**Model Name:** `Qybera/LisaV3.0`  
+**Task:** Audio-Visual Understanding (e.g., Audio-Visual Speech Recognition, Multimodal Classification)
 **Framework:** PyTorch
+**Modalities:** 🎵 Audio, 📸 Images
+**License:** Apache 2.0
 
 [![Open in Hugging Face](https://img.shields.io/badge/Open%20in-Hugging%20Face-orange)](https://huggingface.co/Qybera/LisaV3.0)
-
-```python
-from transformers import pipeline
-classifier = pipeline('audio-abnalysis', model='Qybera/LisaV3.0')
-```
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/Qybera/LisaV3.0)
 
 ## 🎯 Current Focus
 
