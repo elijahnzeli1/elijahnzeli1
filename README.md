@@ -96,6 +96,9 @@
 [![CausalTorch](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=CausalTorch&theme=dark)](https://github.com/elijahnzeli1/CausalTorch)
 [![AI Sales Assistant](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/salesai)
 
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/Qybera/LisaV3.0)
+[![Spaces](https://img.shields.io/badge/🤗%20Spaces-Demo%20App-yellow)](https://huggingface.co/spaces/Qybera/LisaV3.0?logs=container)
+
 ## 🎯 Current Focus
 
 - Building Next.js applications with TypeScript
