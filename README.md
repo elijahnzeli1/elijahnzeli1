@@ -99,6 +99,19 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/Qybera/LisaV3.0)
 [![Spaces](https://img.shields.io/badge/🤗%20Spaces-Demo%20App-yellow)](https://huggingface.co/spaces/Qybera/LisaV3.0?logs=container)
 
+## 🤗 Hugging Face Model
+
+**Model Name:** `your-username/your-model`  
+**Task:** Text Classification  
+**Framework:** PyTorch
+
+[![Open in Hugging Face](https://img.shields.io/badge/Open%20in-Hugging%20Face-orange)](https://huggingface.co/Qybera/LisaV3.0)
+
+```python
+from transformers import pipeline
+classifier = pipeline('audio-abnalysis', model='Qybera/LisaV3.0')
+```
+
 ## 🎯 Current Focus
 
 - Building Next.js applications with TypeScript
