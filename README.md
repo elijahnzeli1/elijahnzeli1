@@ -98,11 +98,11 @@
 
 ## 🤗 Hugging Face Model
 
-**Model Name:** `Qybera/LisaV3.0`  
-**Task:** Audio-Visual Understanding (e.g., Audio-Visual Speech Recognition, Multimodal Classification)
-**Framework:** PyTorch
-**Modalities:** 🎵 Audio, 📸 Images
-**License:** Apache 2.0
+- **Model Name:** `Qybera/LisaV3.0`  
+- **Task:** Audio-Visual Understanding (e.g., Audio-Visual Speech Recognition, Multimodal Classification)
+- **Framework:** PyTorch
+- **Modalities:** 🎵 Audio, 📸 Images
+- **License:** Apache 2.0
 
 [![Open in Hugging Face](https://img.shields.io/badge/Open%20in-Hugging%20Face-orange)](https://huggingface.co/Qybera/LisaV3.0)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/Qybera/LisaV3.0)
