@@ -95,6 +95,7 @@
 
 [![CausalTorch](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=CausalTorch&theme=dark)](https://github.com/elijahnzeli1/CausalTorch)
 [![AI Sales Assistant](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=salesai&theme=dark)](https://github.com/elijahnzeli1/salesai)
+[![Flght Game](https://github-readme-stats.vercel.app/api/pin/?username=elijahnzeli1&repo=FlightSim&theme=dark)](https://github.com/elijahnzeli1/FlightSim)
 
 ## 🤗 Hugging Face Model
 
